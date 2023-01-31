@@ -1,5 +1,9 @@
 <h2>TextUtils A Text Manipulator Software</h2>
 
+<b>Disclaimer -</b>
+This is a personal and small project and not the final output...
+So much even powerful updates are on the way, So stay tuned!
+
 Some Snapshots -
 
 ![IMG1](https://user-images.githubusercontent.com/120216151/215715987-794b7e32-c82a-450e-af08-4d905bdae72d.png)
