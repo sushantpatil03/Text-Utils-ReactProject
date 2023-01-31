@@ -1,5 +1,12 @@
 <h2>TextUtils A Text Manipulator Software</h2>
 
+Some Snapshots -
+
+![IMG1](https://user-images.githubusercontent.com/120216151/215715987-794b7e32-c82a-450e-af08-4d905bdae72d.png)
+![IMG2](https://user-images.githubusercontent.com/120216151/215716018-2af0f196-5595-45ee-adda-0073d172e38b.png)
+![IMG3](https://user-images.githubusercontent.com/120216151/215716040-471f1076-1c09-4da6-ac65-0571e464dce3.png)
+
+
 
 <!-- # Getting Started with Create React App
 
